@@ -51,5 +51,3 @@ ___ French:
 9. Lancez "Update ArmA Reforger.bat" et lorsque c'est bon, lancez "Start ArmA Reforger Server.bat". Acceptez la connexion si le pare-feu vous notifie.
 
 10. Connectez-vous à votre serveur.
-
-[Reforger Base.zip](https://github.com/SdahFX/Reforger-Dedicated-Server/files/10540823/Reforger.Base.zip)
